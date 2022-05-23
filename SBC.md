@@ -10,6 +10,13 @@ different power supply ways and various operating systems. This
 mainboard can be used in ARM PC, edge computing, cloud server,
 smart NVR and other fields.
 
+# New-gen AIoT SoC RK3588
+RK3588 is Rockchip's new-gen flagship AIoT SoC with 8nm lithography process. Equipped with 8-core 64-bit CPU, it has frequency up
+to 2.4GHz. Integrated with ARM Mali-G610 MP4 quad-core GPU and built-in AI acceleration NPU, it provides 6Tops computing power
+and supports mainstream deep learning frameworks. The powerful RK3588 can deliver more optimized performance in various AI
+application scenarios.
+![RK3588 SOC](imgs/RK3588_SOC.jpg?raw=true)
+
 # SBC Pictures:
 - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
