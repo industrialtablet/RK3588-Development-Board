@@ -3,11 +3,11 @@
 # SBC Pictures:
     - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
-    - Main BOTTOM Show
+- Main BOTTOM Show
 ![Main BOTTOM](imgs/main_bottom.jpeg?raw=true)
-    - Input and output front Show
+- Input and output front Show
 ![Input/Output Front](imgs/input_output_front.jpeg?raw=true)
-    - Input and output back Show
+- Input and output back Show
 ![Input/Output Back](imgs/input_output_back.jpeg?raw=true)
 
 # Contacts
