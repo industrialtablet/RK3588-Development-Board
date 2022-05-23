@@ -39,6 +39,41 @@ integrated 48MP ISP with HDR&3DNR supports dual MIPI-CSI camera input.
 it makes network communication have a higher speed.
 ![RK3588 Network](imgs/RK3588_network.jpg?raw=true)
 
+- Multiple hard disks, Massive capacity
+    - The SATA3.0 interface can be connected with multiple 2.5"/3.5" SSD/HDD at the same time. The high-speed
+on-board M.2 SATA3.0 interface supports M.2 2242 SSD. They make it a reality that the device can be easily
+expanded with TB storage capacity.
+
+- PCIe3.0 with high-speed transmission
+    - The standard on-board PCIe3.0 (4 Lane) interface, with a per-lane data rate of 8Gbps, its 4-lane data rate can reach up
+to 32Gbps. Featuring blazing-fast and stable transmission, it can be used to expand with standard PCIe3.0 devices.
+
+- Various power supply ways
+    - A variety of power supply ways are provided: 
+        - 1) 4pin power supply 12V input ;
+        - 2) DC 12V~24V wide voltage input; 
+        - 3) POE 48V power input (up to 60W). 
+    - Various ways meet different application scenarios,
+flexible and convenient.
+
+- More interfaces for more possibilities
+    - RS485, RS232, I2S, I2C, UART, CAN, SPDIF, MIPI CSI, MIPI DSI, USB3.0, USB2.0, SPI, GPIO and other interfaces provide users with
+more imagination when creating.
+
+- Supports various operating systems
+    - Android 12.0, Ubuntu Desktop version and Server version, Debian11, Buildroot, Kylin and UOS are supported. And it supports
+RTLinux, delivering excellent real-time performance. Also, UEFI Boot is available. The stable and reliable operation provides a
+safe and stable system environment for product research and production.
+![RK3588 OS Support](imgs/RK3588_OS_Support.jpg?raw=true)
+
+- Abundant resources
+    - SDK, tutorials, tech docs and dev tools are provided, making development simpler and more convenient.
+    ![RK3588 Resources](imgs/RK3588_Resources.jpg?raw=true)
+
+- A wide range of applications
+    - The mainboard can be used in ARM PC, edge computing, cloud server, smart NVR, smart video wall, AR/VR, smart car and other fields.
+    ![RK3588 Applications](imgs/RK3588_Applications.jpg?raw=true)
+
 # SBC Pictures:
 - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
