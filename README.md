@@ -1,6 +1,12 @@
 # RK3588-Documents
 This repository is RK3588 Documents from HYY Technology Co.,Ltd.
 
+# RK3588 Mainboard (SBC)
+[RK3588 Mainboard (SBC)](SBC.md)
+
+# RK3588 mini-pc
+[RK3588 mini-pc](mini-pc.md)
+
 # RK3588 Block Diagram
 ![RK3588 Block Diagram](imgs/RK3588-Block-Diagram.png?raw=true)
 
