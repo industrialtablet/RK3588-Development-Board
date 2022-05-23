@@ -1,7 +1,11 @@
 # RK3588 Mainboard (SBC) Documents
 
 # SBC Pictures
+# Main TOP Show
+![Main TOP](imgs/main_top.jpeg?raw=true)
+![Main BOTTOM](imgs/main_bottom.jpeg?raw=true)
 ![Input/Output Front](imgs/input_output_front.jpeg?raw=true)
+![Input/Output Back](imgs/input_output_back.jpeg?raw=true)
 
 # Contacts
 - Website: www.we-signage.com
