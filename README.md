@@ -3,7 +3,7 @@ This repository is RK3588 Documents from HYY Technology Co.,Ltd.
 
 # RK3588 Block Diagram
 ![]
-()
+(https://github.com/pengyixing/RK3588-Documents/commit/74f2f9cbd4be115ebd49a64b3f9673daa9d41db7)
 
 # Common Documents
 - 01 Rockchip RK3588 Datasheet V1.1-20220124
