@@ -34,6 +34,11 @@ It can meet the application requirements of products with large RAM and large st
 multi-channel 8K video output and 4K video input — up to four-screen output with different displays can be achieved. The
 integrated 48MP ISP with HDR&3DNR supports dual MIPI-CSI camera input.
 
+- Strong network communication capability
+    - With on-board dual GbE RJ45, 2.4GHz/5GHz dual-band WiFi 6 (802.11ax), Bluetooth 5.0, and 5G/4G LTE expansion supported,
+it makes network communication have a higher speed.
+![RK3588 Network](imgs/RK3588_network.jpg?raw=true)
+
 # SBC Pictures:
 - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
