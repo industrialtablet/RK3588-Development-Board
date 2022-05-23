@@ -18,6 +18,12 @@ application scenarios.
 ![RK3588 SOC 1](imgs/RK3588_SOC_1.jpg?raw=true)
 ![RK3588 SOC 2](imgs/RK3588_SOC_2.jpg?raw=true)
 
+- 8K video encoding and decoding
+    - The mainboard supports 8K@60fps H.265/VP9 video decoding and 8K@30fps H.265/H.264 video encoding, and also supports
+encoding and decoding simultaneously — achieves up to 32-channel 1080P@30fps decoding and 16-channel 1080P@30fps
+encoding. The strong video encoding and decoding capability makes 8K HD display and delicate picture quality available.
+![RK3588 8K Support](imgs/8K_Support.jpg?raw=true)
+
 # SBC Pictures:
 - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
