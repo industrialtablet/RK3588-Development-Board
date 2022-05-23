@@ -24,6 +24,16 @@ encoding and decoding simultaneously — achieves up to 32-channel 1080P@30fps d
 encoding. The strong video encoding and decoding capability makes 8K HD display and delicate picture quality available.
 ![RK3588 8K Support](imgs/8K_Support.jpg?raw=true)
 
+- Super-large 32GB RAM
+    - Up to 32GB of super-large RAM can be configured, which exceeds the limit of the previous RAM and delivers a faster response speed.
+It can meet the application requirements of products with large RAM and large storage.
+![RK3588 large momory](imgs/RK3588_large_memory.jpg?raw=true)
+
+- Multi-channel input and output
+    - With HDMI 2.1/MIPI-DSI/DP1.4/VGA multi-channel video output and HDMI RX2.0/MIPI-CSI video input interfaces, it supports
+multi-channel 8K video output and 4K video input — up to four-screen output with different displays can be achieved. The
+integrated 48MP ISP with HDR&3DNR supports dual MIPI-CSI camera input.
+
 # SBC Pictures:
 - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
