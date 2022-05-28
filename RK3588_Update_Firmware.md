@@ -2,9 +2,9 @@
 
 ## 1.1. Preface
 
-The ITX-3588J is installed with the Android operating system by default. If users want to run other operating systems, they need to use the corresponding firmware to program to the mainboard.
+The RK3588 is installed with the Android operating system by default. If users want to run other operating systems, they need to use the corresponding firmware to program to the mainboard.
 
-ITX-3588J has a flexible startup mode. Generally, the ITX-3588J development board will not turn brick unless the hardware is damaged.
+RK3588 has a flexible startup mode. Generally, theRK3588development board will not turn brick unless the hardware is damaged.
 
 If the accident appeared in the process of upgrading, bootloader damage, leading to unable to upgrade again, while still can enter `<span class="pre">MaskRom</span>` mode to repair.
 
@@ -14,7 +14,7 @@ If the accident appeared in the process of upgrading, bootloader damage, leading
 
 ## 1.3. Upgrade method
 
-ITX-3588J supports firmware update through the following two methods:
+RK3588 supports firmware update through the following two methods:
 
 * Update firmware using USB cable
   Use the USB cable to connect the mainboard to the computer, and use the upgrade tool to program the firmware to the mainboard.
@@ -26,11 +26,11 @@ ITX-3588J supports firmware update through the following two methods:
 * eMMC interface
 * SDMMC interface
 
-In addition, ITX-3588J supports downloading system codes from the Type-C data cable interface.
+In addition, RK3588supports downloading system codes from the Type-C data cable interface.
 
 ## 1.5. Boot mode
 
-ITX-3588J has three startup modes:
+RK3588 has three startup modes:
 
 * Normal mode
 * Loader mode
