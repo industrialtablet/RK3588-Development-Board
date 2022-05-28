@@ -75,7 +75,7 @@ safe and stable system environment for product research and production.
     ![RK3588 Applications](imgs/RK3588_Applications.jpg?raw=true)
 
 # SBC Pictures:
-- SBC PCB Size
+- SBC PCB Size (100mm*140mm)
 ![Main TOP](imgs/RK3588_size.png?raw=true)
 - Main TOP Show
 ![Main TOP](imgs/main_top.jpeg?raw=true)
