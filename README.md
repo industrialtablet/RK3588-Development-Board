@@ -10,7 +10,7 @@ This repository is RK3588 Documents from HYY Technology Co.,Ltd.
 # RK3588 Block Diagram
 ![RK3588 Block Diagram](imgs/RK3588-Block-Diagram.png?raw=true)
 
-# RK3588 Specifications of RK3588(Addtional details)
+# RK3588 Specifications(Addtional details)
 - CPU – 4x Cortex-A76 @ up to 2.4/2.6 GHz and 4x Cortex-A55 cores @ 1.8 GHz in dynamIQ configuration
 - GPU
     - Arm Mali-G610 MP4 “Odin” GPU with support for OpenGLES 1.1, 2.0, and 3.2, OpenCL up to 2.2 and Vulkan1.2
