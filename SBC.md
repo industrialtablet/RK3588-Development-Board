@@ -1,4 +1,7 @@
 # RK3588 Mainboard (SBC) Documents
+
+[03 RK3588 SBC Specifications.pdf](./03_RK3588_SBC_Specifications.pdf?raw=true)
+
 # 8K AI Mini-PC Mainboard(SBC)
 
 Powered by Rockchip RK3588 new-gen 8-core 64-bit processor, the
