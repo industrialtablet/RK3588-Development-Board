@@ -57,7 +57,6 @@ Another way is to connect the power adapter
 * Press and hold the RECOVERY button on the device and hold it.
 * Briefly press the RESET button.
 * After about two seconds, release the RECOVERY key.
-* 
 
 # 2. Upgrade the firmware via USB cable
 
