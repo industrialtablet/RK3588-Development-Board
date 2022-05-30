@@ -2,8 +2,8 @@
 This repository is RK3588 Documents from HYY Technology Co.,Ltd.
 
 # RK3588 Mainboard (SBC)
-[RK3588 Mainboard (SBC)](SBC.md)
-
+- [RK3588 Mainboard (SBC)](SBC.md)
+- [RK3588 SBC Firmware Upgrade](RK3588_Update_Firmware.md)
 # RK3588 mini-pc
 [RK3588 mini-pc](mini-pc.md)
 
