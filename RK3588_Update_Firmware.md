@@ -94,9 +94,8 @@ Download **Release_DriverAssistant.zip**, extract, and then run the DriverInstal
 
 we can put the device into upgrade mode by hardware as follows:
 
-* Disconnect the power adapter first:
+* Disconnect the power adapter first.
 * Type-C data cable connects one end to the host and the other end to the development board.
-
 * Then connect the device Type-C to PC USB,and also connect the DC Power 12V to the device.
 * And press amd hold the recover button nearby the USB3.0 port; And then press one time the reset button nearby the USB2.0 port; and then you can see the message"found a LOADER device"
 
