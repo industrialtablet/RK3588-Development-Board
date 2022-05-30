@@ -53,7 +53,7 @@ This repository is RK3588 Documents from HYY Technology Co.,Ltd.
 - Package – FCBGA1088L; 21.45 x 21.45mm
 - Manufacturing process – 8nm LP
 # Common Documents
-- [01 Rockchip RK3588 Datasheet.pdf](./01_Rockchip_RK3588_Datasheet.pdf?raw=true)
+- [01 HYY Rockchip RK3588 Datasheet.pdf](./01_HYY_Rockchip_RK3588_Datasheet.pdf?raw=true)
 - [02 Rockchip RK806 Datasheet.pdf](./02_Rockchip_RK806_Datasheet.pdf?raw=true)
 - [03 Rockchip RK3588 SBC Specifications.pdf](./03_RK3588_SBC_Specifications.pdf?raw=true)
 - [04 Rockchip RK3588 SBC Specifications.xlsx](./04_RK3588_SBC_Specifications.xlsx?raw=true)
