@@ -54,7 +54,7 @@ This repository is RK3588 Documents from HYY Technology Co.,Ltd.
 - Manufacturing process – 8nm LP
 # Common Documents
 - [01 HYY Rockchip RK3588 Datasheet.pdf](./01_HYY_Rockchip_RK3588_Datasheet.pdf?raw=true)
-- [02 Rockchip RK806 Datasheet.pdf](./02_Rockchip_RK806_Datasheet.pdf?raw=true)
+- [02 HYY Rockchip RK806 Datasheet.pdf](./02_HYY_Rockchip_RK806_Datasheet.pdf?raw=true)
 - [03 Rockchip RK3588 SBC Specifications.pdf](./03_RK3588_SBC_Specifications.pdf?raw=true)
 - [04 Rockchip RK3588 SBC Specifications.xlsx](./04_RK3588_SBC_Specifications.xlsx?raw=true)
 - [05 Rockchip RK3588 8K Mini PC Specifications.xlsx](./05_RK3588_8K_Mini_PC_specs.pdf?raw=true)
