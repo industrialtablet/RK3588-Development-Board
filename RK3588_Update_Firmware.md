@@ -57,6 +57,7 @@ Another way is to connect the power adapter
 * Press and hold the RECOVERY button on the device and hold it.
 * Briefly press the RESET button.
 * After about two seconds, release the RECOVERY key.
+* 
 
 # 2. Upgrade the firmware via USB cable
 
@@ -77,6 +78,7 @@ There are two types of firmware files:
   The unified firmware is a single file packaged and merged by all files such as the partition table, bootloader, uboot, kernel, system and so on. The firmware officially released by our  a unified firmware format. Upgrading the unified firmware will update the data and partition table of all partitions on the motherboard, and erase all data on the motherboard.
 * Multiple partition images
   That is, files with independent functions, such as partition table, bootloader, and kernel, are generated during the development phase. The independent partition image can only update the specified partition, while keeping other partition data from being destroyed, it will be very convenient to debug during the development process.
+* Through the unified firmware unpacking / packing tool, the unified firmware can be unpacked into multiple partition images, or multiple partition images can be merged into a unified firmware.
 
 ## 2.3. Windows
 
