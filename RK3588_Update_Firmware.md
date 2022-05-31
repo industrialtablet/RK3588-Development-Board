@@ -6,7 +6,7 @@ The RK3588 is installed with the Android operating system by default. If users w
 
 RK3588 has a flexible startup mode. Generally, theRK3588development board will not turn brick unless the hardware is damaged.
 
-If the accident appeared in the process of upgrading, bootloader damage, leading to unable to upgrade again, while still can enter `<span class="pre">MaskRom</span>` mode to repair.
+If the accident appeared in the process of upgrading, bootloader damage, leading to unable to upgrade again, while still can enter mode to Maskrom repair.
 
 ## 1.2. How to get the Firmwares and tools
 
@@ -19,7 +19,7 @@ RK3588 supports firmware update through the following methods:
 * Update firmware using USB cable
   Use the USB cable to connect the mainboard to the computer, and use the upgrade tool to program the firmware to the mainboard.
 
-## 1.4. boot media
+## 1.4. Boot media
 
 * eMMC interface
 * SDMMC interface
@@ -40,7 +40,7 @@ Normal mode is the Normal startup process. Each component loads in turn and ente
 
 ### 1.5.2. Loader mode
 
-In Loader mode, the bootloader will enter the upgrade state, waiting for the host command for firmware upgrade, etc. To enter the Loader mode, the bootloader must detect that the `<span class="pre">RECOVERY</span>` key has been pressed and the USB is connected.
+In Loader mode, the bootloader will enter the upgrade state, waiting for the host command for firmware upgrade, etc. To enter the Loader mode, the bootloader must detect that the key has been pressed and the USB is connected.
 
 The method to put the device into upgrade mode is as follows:
 
@@ -77,16 +77,16 @@ There are two types of firmware files:
   The unified firmware is a single file packaged and merged by all files such as the partition table, bootloader, uboot, kernel, system and so on. The firmware officially released by our  a unified firmware format. Upgrading the unified firmware will update the data and partition table of all partitions on the motherboard, and erase all data on the motherboard.
 * Multiple partition images
   That is, files with independent functions, such as partition table, bootloader, and kernel, are generated during the development phase. The independent partition image can only update the specified partition, while keeping other partition data from being destroyed, it will be very convenient to debug during the development process.
-
-> Through the unified firmware unpacking / packing tool, the unified firmware can be unpacked into multiple partition images, or multiple partition images can be merged into a unified firmware.
+* Through the unified firmware unpacking / packing tool, the unified firmware can be unpacked into multiple partition images, or multiple partition images can be merged into a unified firmware.
 
 ## 2.3. Windows
 
 * Tool: **Androidtool_xxx (version number)**
+* Driver:**DriverAssitant_vxxx(version number)**
 
 ### 2.3.1. Install RK USB drive
 
-Download **Release_DriverAssistant.zip**, extract, and then run the DriverInstall.exe inside . In order for all devices to use the updated driver, first select `<span class="pre">Driver</span><span> </span><span class="pre">uninstall</span>`(`<span class="pre">驱动卸载</span>`) and then select `<span class="pre">Driver</span><span> </span><span class="pre">install</span>`(`<span class="pre">驱动安装</span>`).
+Download Release_DriverAssistant.zip, extract, and then run the DriverInstall.exe inside . In order for all devices to use the updated driver, first select Driver install (驱动安装)，If you need to uninstall the driver, please click Driver Uninstall（驱动卸载）
 
 ![_images/upgrade_firmware_install_RK_USB.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_install_RK_USB.png)
 
@@ -101,19 +101,15 @@ we can put the device into upgrade mode by hardware as follows:
 
 put the device into upgrade mode by software as follows:
 
-Type-C data cable is connected, use the command in the serial debugging terminal or adb shell
+Type-C data cable is connected, use the command in the serial debugging terminal or adb shell : reboot loader
 
-```
-reboot loader
-```
-
-The host should prompt for new hardware and configure the driver. Open Device manager and you will see the new Device `<span class="pre">Rockusb</span><span> </span><span class="pre">Device</span>` appear as shown below. If not, you need to go back to the previous step and **reinstall the driver.**
+The host should prompt for new hardware and configure the driver. Open Device manager and you will see the new Device  appear as shown below. If not, you need to go back to the previous step and **reinstall the driver.**
 
 ![_images/upgrade_firmware_new_equipment.jpg](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_new_equipment.jpg)
 
 ### 2.3.3. Upgrade the firmware
 
-First you need to download the firmware . AndroidTool defaults to display in Chinese. We need to change it to English. Open `<span class="pre">config.ini</span>` with an text editor (like notepad). The starting lines are:
+First you need to download the firmware . AndroidTool defaults to display in Chinese. We need to change it to English. Open  with an text editor (like notepad). The starting lines are:
 
 ```
 #Language Selection: Selected=1(Chinese); Selected=2(English)
@@ -123,20 +119,20 @@ Selected=1
 LangPath=Language\
 ```
 
-Change `<span class="pre">Selected=1</span>` to `<span class="pre">Selected=2</span>`, and save. From now on, AndroidTool will display in English.Now, run AndroidTool.exe: (Note: If using Windows 7/8, you’ll need to right click it, select to run it as Administrator)
+Change to, and save. From now on, AndroidTool will display in English.Now, run AndroidTool.exe: (Note: If using Windows 7/8, you’ll need to right click it, select to run it as Administrator)
 
 ![_images/upgrade_firmware_androidtool_zh.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_androidtool_zh.png)
 
 #### 2.3.3.1. Upgrade unified firmware - update.img
 
-The steps to update the unified firmware `<span class="pre">update.img</span>` are as follows:
+The steps to update the unified firmware are as follows:
 
 1. Switch to the “upgrade firmware” page.
 2. Press the “firmware” button to open the firmware file to be upgraded. The upgrade tool displays detailed firmware information.
 3. Press the “upgrade” button to start the upgrade.
 4. If the upgrade fails, you can try to erase the Flash by pressing the EraseFlash button first, and then upgrade.
 
-**Note: if the firmware loadder you wrote is inconsistent with the original one, please execute `<span class="pre">EraseFlash</span>` before upgrading the firmware.**
+**Note: if the firmware loadder you wrote is inconsistent with the original one, please execute before upgrading the firmware.**
 
 ![_images/upgrade_firmware_erase_flash_zh.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_erase_flash_zh.png)
 
@@ -156,11 +152,11 @@ The steps to upgrade the partition image are as follows:
 There is no need to install device driver under Linux. Please refer to the Windows section to connect the device.
 
 * Tool : **upgrade_tool_xxx (version number)**
-* Tool : [Linux_adb_fastboot]
+* Tool : **[Linux_adb_fastboot]**
 
 ### 2.4.1. Upgrade_tool
 
-Download **Linux_Upgrade_Tool**, And install it into the system as follows for easy invocation:
+Download Linux_Upgrade_Tool, And install it into the system as follows for easy invocation:
 
 ```
 unzip Linux_Upgrade_Tool_xxxx.zip
