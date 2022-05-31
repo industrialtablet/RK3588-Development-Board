@@ -1,7 +1,8 @@
 # RK3588-Documents
-This repository is RK3588 Documents from HYY Technology Co.,Ltd.
+This repository is the documentation for RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
 
 # RK3588 Mainboard (SBC)
+RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer) by HYY. It can run Linux, Android, BSD and other distributions.
 - [RK3588 Mainboard (SBC)](SBC.md)
 - [RK3588 SBC Firmware Upgrade](RK3588_Update_Firmware.md)
 # RK3588 mini-pc
