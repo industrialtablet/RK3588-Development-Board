@@ -99,13 +99,15 @@ we can put the device into upgrade mode by hardware as follows:
 * Then connect the device Type-C to PC USB,and also connect the DC Power 12V to the device.
 * And press amd hold the recover button nearby the USB3.0 port; And then press one time the reset button nearby the USB2.0 port; and then you can see the message"found a LOADER device"
 
+![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
+
 put the device into upgrade mode by software as follows:
+
+![connected](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Found_one_loader_device.png)
 
 Type-C data cable is connected, use the command in the serial debugging terminal or adb shell : reboot loader
 
 The host should prompt for new hardware and configure the driver. Open Device manager and you will see the new Device  appear as shown below. If not, you need to go back to the previous step and **reinstall the driver.**
-
-![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
 
 ### 2.3.3. Upgrade the firmware
 
