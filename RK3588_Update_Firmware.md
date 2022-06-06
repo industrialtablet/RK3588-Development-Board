@@ -119,7 +119,7 @@ LangPath=Language\
 
 Change to, and save. From now on, AndroidTool will display in English.Now, run AndroidTool.exe: (Note: If using Windows 7/8, you’ll need to right click it, select to run it as Administrator)
 
-![](imgs\Found_one_loader_device.png)
+![Found_one_loader_device](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Found_one_loader_device.png)
 
 #### 2.3.3.1. Upgrade unified firmware - update.img
 
