@@ -132,7 +132,7 @@ The steps to update the unified firmware are as follows:
 
 **Note: if the firmware loadder you wrote is inconsistent with the original one, please execute before upgrading the firmware.**
 
-![](imgs\Download_Image.jpg)
+![Download_Image](imgs\Download_Image.jpg)
 
 #### 2.3.3.2. Upgrade Partition image
 
