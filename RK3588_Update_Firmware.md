@@ -4,13 +4,13 @@
 
 The RK3588 is installed with the Android operating system by default. If users want to run other operating systems, they need to use the corresponding firmware to program to the mainboard.
 
-RK3588 has a flexible startup mode. Generally, theRK3588development board will not turn brick unless the hardware is damaged.
+RK3588 has a flexible startup mode. Generally, the RK3588 SBC will not turn brick unless the hardware is damaged.
 
 If the accident appeared in the process of upgrading, bootloader damage, leading to unable to upgrade again, while still can enter mode to Maskrom repair.
 
 ## 1.2. How to get the Firmwares and tools
 
-* For all firmware and tools in this document, please go to Email for download link : dennis@we-signage.com
+* For all firmware and tools in this document, please send Email for download link : dennis@we-signage.com
 
 ## 1.3. Upgrade method
 
@@ -24,7 +24,7 @@ RK3588 supports firmware update through the following methods:
 * eMMC interface
 * SDMMC interface
 
-In addition, RK3588supports downloading system codes from the Type-C data cable interface.
+In addition, RK3588 supports downloading system codes from the Type-C data cable interface.
 
 ## 1.5. Boot mode
 
