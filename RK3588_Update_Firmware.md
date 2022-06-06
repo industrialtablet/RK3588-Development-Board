@@ -107,6 +107,8 @@ Type-C data cable is connected, use the command in the serial debugging terminal
 
 The host should prompt for new hardware and configure the driver. Open Device manager and you will see the new Device  appear as shown below. If not, you need to go back to the previous step and **reinstall the driver.**
 
+![](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Rockusb_Device.png)
+
 ### 2.3.3. Upgrade the firmware
 
 First you need to download the firmware . AndroidTool defaults to display in Chinese. We need to change it to English. Open  with an text editor (like notepad). The starting lines are:
