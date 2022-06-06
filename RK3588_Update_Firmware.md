@@ -71,6 +71,7 @@ This article describes how to upgrade the firmware file on the host to the flash
 * host computer
 * Type-C data cable
 
+![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
 There are two types of firmware files:
 
 * A single unified firmware
