@@ -88,7 +88,7 @@ There are two types of firmware files:
 
 Download Release_DriverAssistant.zip, extract, and then run the DriverInstall.exe inside . In order for all devices to use the updated driver, first select Driver install (驱动安装)，If you need to uninstall the driver, please click Driver Uninstall（驱动卸载）
 
-![_images/upgrade_firmware_install_RK_USB.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_install_RK_USB.png)
+![](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_install_RK_USB.png)
 
 ### 2.3.2. Connected devices
 
@@ -99,13 +99,15 @@ we can put the device into upgrade mode by hardware as follows:
 * Then connect the device Type-C to PC USB,and also connect the DC Power 12V to the device.
 * And press amd hold the recover button nearby the USB3.0 port; And then press one time the reset button nearby the USB2.0 port; and then you can see the message"found a LOADER device"
 
-put the device into upgrade mode by software as follows:
+![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
+
+put the device into upgrade mode by software as follows.
 
 Type-C data cable is connected, use the command in the serial debugging terminal or adb shell : reboot loader
 
 The host should prompt for new hardware and configure the driver. Open Device manager and you will see the new Device  appear as shown below. If not, you need to go back to the previous step and **reinstall the driver.**
 
-![_images/upgrade_firmware_new_equipment.jpg](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_new_equipment.jpg)
+![](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Rockusb_Device.png)
 
 ### 2.3.3. Upgrade the firmware
 
@@ -121,7 +123,7 @@ LangPath=Language\
 
 Change to, and save. From now on, AndroidTool will display in English.Now, run AndroidTool.exe: (Note: If using Windows 7/8, you’ll need to right click it, select to run it as Administrator)
 
-![_images/upgrade_firmware_androidtool_zh.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_androidtool_zh.png)
+![Found_one_loader_device](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Found_one_loader_device.png)
 
 #### 2.3.3.1. Upgrade unified firmware - update.img
 
@@ -134,7 +136,7 @@ The steps to update the unified firmware are as follows:
 
 **Note: if the firmware loadder you wrote is inconsistent with the original one, please execute before upgrading the firmware.**
 
-![_images/upgrade_firmware_erase_flash_zh.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_erase_flash_zh.png)
+![Download_Image](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Download_Image.jpg)
 
 #### 2.3.3.2. Upgrade Partition image
 
@@ -144,8 +146,6 @@ The steps to upgrade the partition image are as follows:
 2. Check the partition to be burned, and select multiple.
 3. Make sure the path of the image file is correct. If necessary, click the blank table cell on the right side of the path to select it again.
 4. Click “Run” button to start the upgrade, and the device will restart automatically after the upgrade.
-
-![_images/upgrade_firmware_androidtool_zh.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_androidtool_zh.png)
 
 ## 2.4. Linux
 
@@ -233,6 +233,7 @@ sudo fastboot reboot # After the burn is successful, restart
 If Download Boot Fail occurs during the programming process, or an error occurs during the programming process, as shown in the figure below, it is usually caused by the poor connection of the USB cable, the inferior cable, or the insufficient drive capability of the USB port of the computer. Troubleshoot the computer USB port.
 
 # Contacts
+
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
