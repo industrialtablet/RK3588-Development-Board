@@ -101,9 +101,7 @@ we can put the device into upgrade mode by hardware as follows:
 
 ![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
 
-put the device into upgrade mode by software as follows:
-
-![connected](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Found_one_loader_device.png)
+put the device into upgrade mode by software as follows.
 
 Type-C data cable is connected, use the command in the serial debugging terminal or adb shell : reboot loader
 
