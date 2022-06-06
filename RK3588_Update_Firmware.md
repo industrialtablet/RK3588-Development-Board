@@ -88,7 +88,7 @@ There are two types of firmware files:
 
 Download Release_DriverAssistant.zip, extract, and then run the DriverInstall.exe inside . In order for all devices to use the updated driver, first select Driver install (驱动安装)，If you need to uninstall the driver, please click Driver Uninstall（驱动卸载）
 
-![_images/upgrade_firmware_install_RK_USB.png](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_install_RK_USB.png)
+![](https://wiki.t-firefly.com/en/Core-3588J/_images/upgrade_firmware_install_RK_USB.png)
 
 ### 2.3.2. Connected devices
 
@@ -119,7 +119,7 @@ LangPath=Language\
 
 Change to, and save. From now on, AndroidTool will display in English.Now, run AndroidTool.exe: (Note: If using Windows 7/8, you’ll need to right click it, select to run it as Administrator)
 
-![imgs\Found_one_loader_device.png](imgs\Found_one_loader_device.png)
+![](imgs\Found_one_loader_device.png)
 
 #### 2.3.3.1. Upgrade unified firmware - update.img
 
@@ -132,7 +132,7 @@ The steps to update the unified firmware are as follows:
 
 **Note: if the firmware loadder you wrote is inconsistent with the original one, please execute before upgrading the firmware.**
 
-![imgs\Download_Image.jpg](imgs\Download_Image.jpg)
+![](imgs\Download_Image.jpg)
 
 #### 2.3.3.2. Upgrade Partition image
 
