@@ -71,7 +71,6 @@ This article describes how to upgrade the firmware file on the host to the flash
 * host computer
 * Type-C data cable
 
-![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
 There are two types of firmware files:
 
 * A single unified firmware
@@ -105,6 +104,8 @@ put the device into upgrade mode by software as follows:
 Type-C data cable is connected, use the command in the serial debugging terminal or adb shell : reboot loader
 
 The host should prompt for new hardware and configure the driver. Open Device manager and you will see the new Device  appear as shown below. If not, you need to go back to the previous step and **reinstall the driver.**
+
+![OTG](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/RK3588_recover_button_reset_button_otg-interface.jpg)
 
 ### 2.3.3. Upgrade the firmware
 
