@@ -233,8 +233,8 @@ sudo fastboot reboot # After the burn is successful, restart
 If Download Boot Fail occurs during the programming process, or an error occurs during the programming process, as shown in the figure below, it is usually caused by the poor connection of the USB cable, the inferior cable, or the insufficient drive capability of the USB port of the computer. Troubleshoot the computer USB port.
 
 # Contacts
-
 - Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
 - MP/Whatsapp/Wechat: + 86 13349909990
 - Skype: solled686
