@@ -132,7 +132,7 @@ The steps to update the unified firmware are as follows:
 
 **Note: if the firmware loadder you wrote is inconsistent with the original one, please execute before upgrading the firmware.**
 
-![Download_Image](https://github.com/evin792/RK3588-Development-Board/tree/main/imgs/Download_Image.jpg)
+![Download_Image](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs/Download_Image.jpg)
 
 #### 2.3.3.2. Upgrade Partition image
 
