@@ -7,6 +7,7 @@
 - [06 HYY Digital Signage Catalog.pdf](./RK3588_Documents/06_HYY_Digital_Signage_Catalog.pdf?raw=true)
 # Contacts
 - Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
 - MP/Whatsapp/Wechat: + 86 13349909990
 - Skype: solled686
