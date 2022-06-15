@@ -9,12 +9,12 @@
 # RK3588 chip octa core DDR4 4G 8GB WIFI6 dual band android 12 ubuntu Debian11 OS 8K 60fps tv box mini pc
 
 # Product Description
-![RK3588 minipc 1](mini_pc_imgs/RK3588_minipc_1.png?raw=true)
-![RK3588 minipc 2](mini_pc_imgs/RK3588_minipc_2.png?raw=true)
-![RK3588 minipc 3](mini_pc_imgs/RK3588_minipc_3.png?raw=true)
-![RK3588 minipc 4](mini_pc_imgs/RK3588_minipc_4.png?raw=true)
-![RK3588 minipc 5](mini_pc_imgs/RK3588_minipc_5.png?raw=true)
-![RK3588 minipc 6](mini_pc_imgs/RK3588_minipc_6.png?raw=true)
+![RK3588 minipc 1](imgs2/RK3588_minipc_1.png?raw=true)
+![RK3588 minipc 2](imgs2/RK3588_minipc_2.png?raw=true)
+![RK3588 minipc 3](imgs2/RK3588_minipc_3.png?raw=true)
+![RK3588 minipc 4](imgs2/RK3588_minipc_4.png?raw=true)
+![RK3588 minipc 5](imgs2/RK3588_minipc_5.png?raw=true)
+![RK3588 minipc 6](imgs2/RK3588_minipc_6.png?raw=true)
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
