@@ -10,11 +10,11 @@
 
 # Product Description
 ![RK3588 minipc 1](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_1.webp)
-![RK3588 minipc 2](imgs2/RK3588_minipc_2.webp?raw=true)
-![RK3588 minipc 3](imgs2/RK3588_minipc_3.webp?raw=true)
-![RK3588 minipc 4](imgs2/RK3588_minipc_4.webp?raw=true)
-![RK3588 minipc 5](imgs2/RK3588_minipc_5.webp?raw=true)
-![RK3588 minipc 6](imgs2/RK3588_minipc_6.webp?raw=true)
+![RK3588 minipc 2](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_2.webp)
+![RK3588 minipc 3](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_3.webp)
+![RK3588 minipc 4](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_4.webp)
+![RK3588 minipc 5](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_5.webp)
+![RK3588 minipc 6](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_6.webp)
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
