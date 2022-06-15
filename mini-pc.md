@@ -7,7 +7,8 @@
 - [06 HYY Digital Signage Catalog.pdf](./RK3588_Documents/06_HYY_Digital_Signage_Catalog.pdf?raw=true)
 
 # RK3588 chip octa core DDR4 4G 8GB WIFI6 dual band android 12 ubuntu Debian11 OS 8K 60fps tv box mini pc
-## RK3588 8K mini pc spcifications
+## 
+RK3588 8K mini pc spcifications
 <table border="1">
     <tr>
         <td colspan="3">Model NO. ALLBOX-PCRK3588A01PoE </td>
