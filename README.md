@@ -7,7 +7,7 @@ RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer)
 - [RK3588 SBC Firmware Upgrade](RK3588_Update_Firmware.md)
 # RK3588 mini-pc
 - [RK3588 mini-pc](mini-pc.md)
-
+- [RK3588 mini-pc Firmware Upgrade](RK3588_Update_Firmware.md)
 # RK3588 Block Diagram
 ![RK3588 Block Diagram](imgs/RK3588-Block-Diagram.png?raw=true)
 
