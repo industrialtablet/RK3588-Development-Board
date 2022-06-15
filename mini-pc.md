@@ -9,7 +9,7 @@
 # RK3588 chip octa core DDR4 4G 8GB WIFI6 dual band android 12 ubuntu Debian11 OS 8K 60fps tv box mini pc
 
 # Product Description
-![RK3588 minipc 1](imgs2/RK3588_minipc_1.webp?raw=true)
+![RK3588 minipc 1](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_1.webp)
 ![RK3588 minipc 2](imgs2/RK3588_minipc_2.webp?raw=true)
 ![RK3588 minipc 3](imgs2/RK3588_minipc_3.webp?raw=true)
 ![RK3588 minipc 4](imgs2/RK3588_minipc_4.webp?raw=true)
