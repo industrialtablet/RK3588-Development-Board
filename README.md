@@ -65,6 +65,8 @@ RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer)
 - [AndroidTool_Release_v2.35](./AndroidTool/AndroidTool_Release_v2.35.zip)
 - [AndroidTool_Release_v2.54](./AndroidTool/AndroidTool_Release_v2.54.zip)
 - [DriverAssitant_v5.1.1](./AndroidTool/DriverAssitant_v5.1.1.zip)
+# How Qt5.14.2 cross-compile
+- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
