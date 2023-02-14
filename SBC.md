@@ -25,11 +25,11 @@
     </tr>
     <tr>
         <td>RAM</td>
-        <td>4GB (8G,16G option)</td>
+        <td>4GB (8G,16G,32G option)</td>
     </tr>
     <tr>
         <td>ROM</td>
-        <td>32GB (64G option)</td>
+        <td>32GB (64G,128G,256G option)</td>
     </tr>
     <tr>
         <td>GPU</td>
@@ -123,7 +123,7 @@
     </tr>
     <tr>
         <td>Certificates</td>
-        <td>CE</td>
+        <td>CE,ERP,ROHS,REACH,SCCP,PAHS</td>
     </tr>
     <tr>
         <td rowspan="3">Accessories</td>
