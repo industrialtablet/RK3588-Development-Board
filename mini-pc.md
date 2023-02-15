@@ -1,3 +1,5 @@
+# RK3588 mini pc
+This repository is the documentation for RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
 # RK3588 mini-pc Documents
 - [01 HYY Rockchip RK3588 Datasheet.pdf](./RK3588_Documents/01_HYY_Rockchip_RK3588_Datasheet.pdf?raw=true)
 - [02 HYY Rockchip RK806 Datasheet.pdf](./RK3588_Documents/02_HYY_Rockchip_RK806_Datasheet.pdf?raw=true)
@@ -7,6 +9,7 @@
 - [06 HYY Rockchip RK3588 8K industrial computer Specifications.pdf](./06_HYY_RK3588_8K_industrial_computer_specs?raw=true)
 - [07 HYY Digital Signage Catalog.pdf](./RK3588_Documents/06_HYY_Digital_Signage_Catalog.pdf?raw=true)
 
+# RK3588 Android 12 OS 8K Media Player
 # RK3588 chip octa core DDR4 4G 8GB WIFI6 dual band android 12 ubuntu Debian11 OS 8K 60fps tv box mini pc
 ## 
 RK3588 8K mini pc spcifications
