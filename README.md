@@ -70,7 +70,7 @@ RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer)
 - [RKDevTool_Release_v2.84](./AndroidTool/RKDevTool_Release_v2.84.zip)
 - [DriverAssitant_v5.1.1](./AndroidTool/DriverAssitant_v5.1.1.zip)
 
-# ota upgrade tools and server
+# ota upgrade tools(otaStar) and server
 - [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
 
 # How Qt5.14.2 cross-compile
