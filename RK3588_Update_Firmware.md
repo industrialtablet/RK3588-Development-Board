@@ -1,23 +1,29 @@
+# RK3566 RK3568 RK3588 Products firmware upgrade
+
+This repository is the documentation for RK3566 RK3568 RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
+
+
+
 # 1. Boot mode description
 
 ## 1.1. Preface
 
-The RK3588 is installed with the Android operating system by default. If users want to run other operating systems, they need to use the corresponding firmware to program to the mainboard.
+The RK3566 RK3568 RK3588 is installed with the Android operating system by default. If users want to run other operating systems, they need to use the corresponding firmware to program to the mainboard.
 
-RK3588 has a flexible startup mode. Generally, the RK3588 SBC will not turn brick unless the hardware is damaged.
+RK3566 RK3568 RK3588 has a flexible startup mode. Generally, the RK3566 RK3568 RK3588 SBC will not turn brick unless the hardware is damaged.
 
 If the accident appeared in the process of upgrading, bootloader damage, leading to unable to upgrade again, while still can enter mode to Maskrom repair.
 
 ## 1.2. How to get the Firmwares and tools
 
-* For all firmware and tools in this document, please send Email for download link : dennis@we-signage.com
+* For all firmware and tools in this document, please send Email  dennis@we-signage.com
 
 ## 1.3. Upgrade method
 
-RK3588 supports firmware update through the following methods:
+RK3566 RK3568 RK3588 supports firmware update through the following methods:
 
 * Update firmware using USB cable
-  Use the USB cable to connect the mainboard to the computer, and use the upgrade tool to program the firmware to the mainboard.
+  USB cable connect the mainboard with the computer, and  "upgrade tool"  can program the firmware to the mainboard.
 
 ## 1.4. Boot media
 
@@ -28,7 +34,7 @@ In addition, RK3588 supports downloading system codes from the Type-C data cable
 
 ## 1.5. Boot mode
 
-RK3588 has three startup modes:
+RK3566 RK3568 RK3588 has three startup modes:
 
 * Normal mode
 * Loader mode
@@ -66,10 +72,11 @@ This article describes how to upgrade the firmware file on the host to the flash
 
 ## 2.2. Preparatory Tools
 
-* RK3588 development board
+* RK3566 RK3568 RK3588 products
 * Firmware
 * host computer
-* Type-C data cable
+* Type-C data cable for RK3588
+* USBA to USBA cable for RK3566 and RK3568
 
 There are two types of firmware files:
 
@@ -82,7 +89,14 @@ There are two types of firmware files:
 ## 2.3. Windows
 
 * Tool: **Androidtool_xxx (version number)**
+
+  \- [AndroidTool_Release_v2.35](./AndroidTool/AndroidTool_Release_v2.35.zip)
+
+  \- [AndroidTool_Release_v2.54](./AndroidTool/AndroidTool_Release_v2.54.zip)
+
 * Driver:**DriverAssitant_vxxx(version number)**
+
+  \- [DriverAssitant_v5.1.1](./AndroidTool/DriverAssitant_v5.1.1.zip)
 
 ### 2.3.1. Install RK USB drive
 
