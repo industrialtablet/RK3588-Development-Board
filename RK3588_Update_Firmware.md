@@ -254,6 +254,32 @@ If Download Boot Fail occurs during the programming process, or an error occurs 
 - [05 HYY Rockchip RK3588 8K Mini PC Specifications.pdf](./RK3588_Documents/05_HYY_RK3588_8K_Mini_PC_specs.pdf?raw=true)
 - [06 HYY Digital Signage Catalog.pdf](./RK3588_Documents/06_HYY_Digital_Signage_Catalog.pdf?raw=true)
 
+
+
+# Get More technical Support
+
+###### RK3588 Development Board
+
+\- [RK3588 Development Board](https://github.com/industrialtablet/RK3588-Development-Board)
+
+###### ota upgrade tools(otaStar) and server
+
+\- [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
+
+###### How Qt5.14.2 cross-compile
+
+\- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian Linux OS](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
+
+Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
+
+\- [Build Videorecorder Bundle use Networkoptix Client](https://github.com/industrialtablet/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet)
+
+Build new ubuntu rootfs for HYY H-3588 Tablet
+
+-[Build new ubuntu rootfs for RK3566 RK3568 RK3588 products](https://github.com/industrialtablet/Re-build-ubuntu20.04-rootfs-for-RK3566-RK3568-RK3588)
+
+
+
 # Contacts
 
 - Website: www.we-signage.com
