@@ -66,18 +66,43 @@ RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer)
 - Package – FCBGA1088L; 21.45 x 21.45mm
 - Manufacturing process – 8nm LP
 
+
+
 # Firmware upgrade tools and driver
+
 - [AndroidTool_Release_v2.35](./AndroidTool/AndroidTool_Release_v2.35.zip)
 - [AndroidTool_Release_v2.54](./AndroidTool/AndroidTool_Release_v2.54.zip)
 - [RKDevTool_Release_v2.84](./AndroidTool/RKDevTool_Release_v2.84.zip)
 - [DriverAssitant_v5.1.1](./AndroidTool/DriverAssitant_v5.1.1.zip)
 
-# ota upgrade tools(otaStar) and server
-- [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
 
-# How Qt5.14.2 cross-compile
-- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
+
+# Get More technical Support
+
+###### RK3588 Development Board
+
+\- [RK3588 Development Board](https://github.com/industrialtablet/RK3588-Development-Board)
+
+###### ota upgrade tools(otaStar) and server
+
+\- [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
+
+###### How Qt5.14.2 cross-compile
+
+\- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian Linux OS](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
+
+Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
+
+\- [Build Videorecorder Bundle use Networkoptix Client](https://github.com/industrialtablet/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet)
+
+Build new ubuntu rootfs for HYY H-3588 Tablet
+
+-[Build new ubuntu rootfs for RK3566 RK3568 RK3588 products](https://github.com/industrialtablet/Re-build-ubuntu20.04-rootfs-for-RK3566-RK3568-RK3588)
+
+
+
 # Contacts
+
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
