@@ -12,7 +12,7 @@ This repository is the documentation for RK3588 products, written by RSD Team of
 - [rk3588_mini_ubuntu20.04_update_lp4x_0513.7z](https://1drv.ms/u/s!AqvWy-LFD_JhijgLmUHoKw-JnXcN?e=L0PMag)
 # RK3588 Android 12 OS 8K Media Player
 # RK3588 chip octa core DDR4 4G 8GB WIFI6 dual band android 12 ubuntu Debian11 OS 8K 60fps tv box mini pc
-## 
+
 RK3588 8K mini pc spcifications
 <table border="1">
     <tr>

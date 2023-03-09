@@ -1,18 +1,26 @@
-# 
-## RK3588 Mainboard (SBC) Documents
+# RK3588 Mainboard (SBC) Documents
 - [01 HYY Rockchip RK3588 Datasheet.pdf](./RK3588_Documents/01_HYY_Rockchip_RK3588_Datasheet.pdf?raw=true)
+
 - [02 HYY Rockchip RK806 Datasheet.pdf](./RK3588_Documents/02_HYY_Rockchip_RK806_Datasheet.pdf?raw=true)
+
 - [03 HYY Rockchip RK3588 RKDevTool manual.pdf](./RK3588_Documents/03_HYY_RKDevTool_manual.pdf?raw=true)
+
 - [04 HYY Rockchip RK3588 SBC Specifications.pdf](./RK3588_Documents/04_HYY_RK3588_SBC_Specifications.pdf?raw=true)
+
 - [05 HYY Rockchip RK3588 8K Mini PC Specifications.pdf](./05_HYY_Rockchip_RK3588_8K_Mini_PC_Specifications?raw=true)
+
 - [06 HYY Rockchip RK3588 8K industrial computer Specifications.pdf](./06_HYY_RK3588_8K_industrial_computer_specs?raw=true)
+
 - [07 HYY Digital Signage Catalog.pdf](./RK3588_Documents/06_HYY_Digital_Signage_Catalog.pdf?raw=true)
 
-## Ubuntu20.04 Firmware Download
+  
+
+# Ubuntu20.04 Firmware Download
 - [rk3588_edge_ubuntu20.04_unity_update_lp4x_0704_r1.7z](https://1drv.ms/u/s!AqvWy-LFD_JhijeK6ZqT1QG4Svf6?e=rDfMKj)
 
-# 
-## RK3588 8K mini pc spcifications
+
+
+# RK3588 8K Mainboard (SBC) Specifications
 <table border="1">
     <tr>
         <td colspan="3">Model NO. ALLBOX-PCRK3588A01PoE </td>
@@ -64,88 +72,151 @@
         <td>Bluetooth 5.0</td>
     </tr>  
     <tr>
-        <td rowspan="7">Interface</td>
-        <td>HDMI 2.1 OUT x2</td>
+        <td rowspan="4">Display</td>
+        <td>HDMI 2.1 OUT x1</td>
         <td>HDMI2.1 (8K@60fps or 4K@120fps)</td>
     </tr>  
+    <tr>
+        <td>DP1.4 OUT x1</td>
+        <td>DP1.4 (8K@30fps) , multiplexed with USB3.0</td>
+    </tr>
     <tr>
         <td>HDMI IN</td>
         <td>HDMI-IN (4K@60fps) , Supports HDCP 2.3</td>
     </tr>
     <tr>
-        <td>USB Host 2.0</td>
-        <td>USB Host 2.0 x2 (Limit 500mA)</td>
+        <td>MIPI-CSI IN x1</td>
+        <td>2lane MIPI-CSI input x1</td>
     </tr>
+  	<tr>
+      	<td rowspan="4">Audio</td>
+      	<td>Speaker x1</td>
+      	<td>Speaker OUT</td>
+  	</tr>
+  	<tr>
+  			<td>HDMI Audio OUT x1</td>
+      	<td>HDMI Audio OUTPUT</td>
+  	</tr>
     <tr>
-        <td>USB Host 3.0</td>
-        <td>USB Host 3.0 x1 (Limit 1A)</td>
-    </tr>
-    <tr>
-        <td>USC-C</td>
-        <td>USB-C (USB3.0 / DP1.4) (Limit 2A)</td>
-    </tr>    
-    <tr>
-        <td>Power Jack</td>
-        <td>DC power input</td>
-    </tr> 
-    <tr>
-        <td>RJ45</td>
-        <td>Ethernet with POE</td>
-    </tr> 
-    <tr>
-        <td rowspan="3">Multimedia</td>
-        <td>Video format</td>
-        <td>MPEG-1,MPEG-2,MPEG-4,H.263,H.264,VC1,RV etc.,support up to 4K
-        Video decode – H.264/H.265/VP9
-        Video encode – 1080p60 H.264/H.265</td>
-    </tr>
-    <tr>
-        <td>Audio format</td>
-        <td>MP3/WMA/AAC etc.</td>
-    </tr>
-    <tr>
-        <td>Photo</td>
-        <td>jpeg/jpg/png etc.</td>
-    </tr> 
-    <tr>
-        <td rowspan="5">Others  functions</td>
-        <td>Wireless mouse</td>
-        <td>Support</td>
-    </tr>
-    <tr>
-        <td>Wireless keyboard</td>
-        <td>Support</td>
-    </tr> 
-    <tr>
-        <td>Language</td>
-        <td>Multi-language</td>
-    </tr>    
-    <tr>
-        <td>Working temp</td>
-        <td>0--40degree</td>
-    </tr>
-    <tr>
-        <td>Certificates</td>
-        <td>CE,ERP,ROHS,REACH,SCCP,PAHS</td>
-    </tr>
-    <tr>
-        <td rowspan="3">Accessories</td>
-        <td>Adapter</td>
-        <td>Adapter,12V,3A</td>
-    </tr>
-    <tr>
-        <td>Desktop Bracket</td>
-        <td>Standard</td>
-    </tr> 
-    <tr>
-        <td>User manual</td>
-        <td>YES</td>
-    </tr>                           
+  			<td>DP Audio x1</td>
+      	<td>DP Audio OUTPUT</td>
+  	</tr>
+  	<tr>
+  			<td>HDMI Audio IN x1</td>
+      	<td>HDMI Audio INPUT</td>
+  	</tr> 
+  	<tr>
+      	<td rowspan="1">PCIE</td>
+      	<td>PCIe3.0 x1</td>
+      	<td>PCIe3.0 (4Lane), can expand with standard PCIe3.0 devices</td>
+  	</tr>
+  	<tr>
+      	<td rowspan="2">SATA</td>
+      	<td>M.2 x1</td>
+      	<td>M.2 interface (SATA3.0)</td>
+  	</tr>
+  	<tr>
+  	    <td>SATA3.0 x3</td>
+  	    <td>Standard SATA3.0 interface</td>
+  	</tr>
+  	<tr>
+  	  	<td rowspan="3">USB</td>
+  	    <td>USB Host 2.0</td>
+  	    <td>USB Host 2.0 x2 (Limit 500mA)</td>      	
+  	</tr>
+  	<tr>
+  	    <td>USB Host 3.0</td>
+  	    <td>USB Host 3.0 x1 (Limit 1A)</td>
+  	</tr>
+  	<tr>
+  	    <td>USC-C x2</td>
+  	    <td>USB-C (USB3.0 / DP1.4) (Limit 2A)</td>
+  	</tr> 
+  	<tr>
+      	<td rowspan="3">Others</td>
+  	    <td>Power Jack</td>
+  	    <td>DC power input</td>
+  	</tr> 
+  	<tr>
+  	    <td>RJ45</td>
+  	    <td>Ethernet with POE</td>
+  	</tr>
+  	<tr>
+  	    <td>Industrial</td>
+  	    <td>RS485 x1; RS232 x1; GPIO x8; I2C x1; Heating 12V x1; GPIO x6</td>
+  	</tr>  
+  	<tr>
+  	    <td rowspan="3">Multimedia</td>
+  	    <td>Video format</td>
+  	    <td>MPEG-1,MPEG-2,MPEG-4,H.263,H.264,VC1,RV etc.,support up to 4K
+  	    Video decode – H.264/H.265/VP9
+  	    Video encode – 1080p60 H.264/H.265</td>
+  	</tr>
+  	<tr>
+  	    <td>Audio format</td>
+  	    <td>MP3/WMA/AAC etc.</td>
+  	</tr>
+  	<tr>
+  	    <td>Photo</td>
+  	    <td>jpeg/jpg/png etc.</td>
+  	</tr> 
+  	<tr>
+  	    <td rowspan="5">Others  functions</td>
+  	    <td>Wireless mouse</td>
+  	    <td>Support</td>
+  	</tr>
+  	<tr>
+  	    <td>Wireless keyboard</td>
+  	    <td>Support</td>
+  	</tr> 
+  	<tr>
+  	    <td>Language</td>
+  	    <td>Multi-language</td>
+  	</tr>    
+  	<tr>
+  	    <td>Working temp</td>
+  	    <td>0--40degree</td>
+  	</tr>
+  	<tr>
+  	    <td>Certificates</td>
+  	    <td>CE,ERP,ROHS,REACH,SCCP,PAHS</td>
+  	</tr>
+  	<tr>
+  	    <td rowspan="3">Accessories</td>
+  	    <td>Adapter</td>
+  	    <td>Adapter,12V,3A</td>
+  	</tr>
+  	<tr>
+  	    <td>Desktop Bracket</td>
+  	    <td>Standard</td>
+  	</tr> 
+  	<tr>
+  	    <td>User manual</td>
+  	    <td>YES</td>
+  	</tr>                           
 </table>
 
 
-# 
-## 8K AI Mini-PC Mainboard(SBC)
+
+
+# SBC Pictures Show
+
+- SBC PCB Size (100mm*140mm)
+  ![Main TOP](imgs/RK3588_size.png?raw=true)
+- Main TOP Show
+  ![Main TOP](imgs/main_top.jpeg?raw=true)
+- Main BOTTOM Show
+  ![Main BOTTOM](imgs/main_bottom.jpeg?raw=true)
+- Input and output front Show
+  ![Input/Output Front](imgs/input_output_front.jpeg?raw=true)
+- Input and output back Show
+  ![Input/Output Back](imgs/input_output_back.jpeg?raw=true)
+
+
+
+
+
+## 8K AI Mini-PC Mainboard(SBC) CPU Introduction
 
 Powered by Rockchip RK3588 new-gen 8-core 64-bit processor, the
 mainboard can be configured with up to 32GB RAM. Capable of 8K
@@ -221,18 +292,7 @@ smart NVR and other fields.
   - The mainboard can be used in ARM PC, edge computing, cloud server, smart NVR, smart video wall, AR/VR, smart car and other fields.
     ![RK3588 Applications](imgs/RK3588_Applications.jpg?raw=true)
 
-# SBC Pictures:
-
-- SBC PCB Size (100mm*140mm)
-  ![Main TOP](imgs/RK3588_size.png?raw=true)
-- Main TOP Show
-  ![Main TOP](imgs/main_top.jpeg?raw=true)
-- Main BOTTOM Show
-  ![Main BOTTOM](imgs/main_bottom.jpeg?raw=true)
-- Input and output front Show
-  ![Input/Output Front](imgs/input_output_front.jpeg?raw=true)
-- Input and output back Show
-  ![Input/Output Back](imgs/input_output_back.jpeg?raw=true)
+# 
 
 
 
