@@ -8,8 +8,8 @@ This repository is the documentation for RK3588 products, written by RSD Team of
 - [02 HYY Rockchip RK806 Datasheet.pdf](./RK3588_Documents/02_HYY_Rockchip_RK806_Datasheet.pdf?raw=true)
 - [03 HYY Rockchip RK3588 RKDevTool manual.pdf](./RK3588_Documents/03_HYY_RKDevTool_manual.pdf?raw=true)
 - [04 HYY Rockchip RK3588 SBC Specifications.pdf](./RK3588_Documents/04_HYY_RK3588_SBC_Specifications.pdf?raw=true)
-- [05 HYY Rockchip RK3588 8K Mini PC Specifications.pdf](./05_HYY_Rockchip_RK3588_8K_Mini_PC_Specifications?raw=true)
-- [06 HYY Rockchip RK3588 8K industrial computer Specifications.pdf](./06_HYY_RK3588_8K_industrial_computer_specs?raw=true)
+- [05 HYY Rockchip RK3588 8K Mini PC Specifications.pdf](./RK3588_Documents/05_HYY_Rockchip_RK3588_8K_Mini_PC_Specifications?raw=true)
+- [06 HYY Rockchip RK3588 8K industrial computer Specifications.pdf](./RK3588_Documents/06_HYY_RK3588_8K_industrial_computer_specs?raw=true)
 - [07 HYY Digital Signage Catalog.pdf](./RK3588_Documents/06_HYY_Digital_Signage_Catalog.pdf?raw=true)
 # RK3588 Mainboard (SBC)
 RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer) by HYY. It can run Linux <Debian11, Ubuntu20.04>, Android12,  chromium-os and other distributions.
