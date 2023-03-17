@@ -145,6 +145,14 @@ RK3588 8K mini pc spcifications
 </table>
 
 # Product Description
+An RK3588 mini PC is a compact desktop computer that uses the RK3588 chip as its main processing unit. Mini PCs are typically smaller and more portable than traditional desktop computers, making them a great choice for people who need a powerful and versatile computer that they can take with them on the go.
+
+With the RK3588 chip, mini PCs can deliver high performance computing, graphics rendering, and video processing capabilities, making them ideal for a wide range of applications, such as gaming, media editing, and industrial automation. The chip features a quad-core ARM Cortex-A76 CPU, a Mali-G77 GPU, and support for DDR4 memory, PCIe 3.0, USB 3.1, and HDMI 2.1.
+
+RK3588 mini PCs can be customized with different configurations and specifications, depending on the user's needs and preferences. Some popular features include dual-band Wi-Fi, Bluetooth, Ethernet, multiple USB ports, and support for different operating systems such as Windows and Linux.
+
+Overall, RK3588 mini PCs are a great choice for people who want a powerful and versatile computing device that is small, lightweight, and easy to transport. They can be used for a wide range of applications, from gaming and entertainment to industrial automation and enterprise computing.
+
 ![RK3588 minipc 1](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_1.jpg)
 ![RK3588 minipc 2](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_2.webp)
 ![RK3588 minipc 3](https://github.com/pengyixing/RK3588-Development-Board/blob/main/imgs2/rk3588_minipc_3.jpg)
