@@ -14,14 +14,20 @@
 
 
 
-# RK3588 8K Mainboard (SBC) Specifications
+# RK3588 Edge Computing Mainboard (SBC) Specifications
 <table border="1">
     <tr>
-        <td colspan="3">Model NO. ALLBOX-PCRK3588A01PoE </td>
+        <td colspan="3">Model NO. ALLEdge-RK3588A01PoE </td>
+    </tr>
+    <tr>
+        <td colspan="3">Documention Version: V1.0 </td>
+    </tr>
+    <tr>
+        <td colspan="3">Product No.: EDGE-RK3588 </td>
     </tr>
     <tr>
         <td>Product Type</td>
-        <td colspan="2">RK3588 minipc POE</td>
+        <td colspan="2">RK3588 Edge Computing With POE</td>
     </tr>
     <tr>
         <td rowspan="6">System</td>
