@@ -3,14 +3,16 @@ This repository is the documentation for RK3588 products, written by RSD Team of
 - [Order RK3588 SBC](https://we-signage.en.made-in-china.com/product/mFGTfIdHYhUb/China-8K-4K-USB-4-16GB-RAM-16-128GB-ROM-Android-12-Poe-HDMI-Rockchip-Rk3588-Industrial-Tablet-Touch-Screen-Panel-Mini-PC-Arm-PC-Embedded-PC-Sbc-Single-Board-Computer.html)
 - [Order RK3588 mini-pc](https://we-signage.en.made-in-china.com/product/bJRUdDnlIQcr/China-8K-4-16GB-RAM-16-128GB-Emmc-Storage-Rockchip-Rk3588-WiFi-6-Embedded-Debian-Ubuntu-Windows-Linux-Android-12-Industrial-Sbc-Single-Board-Desktop-Computer-Mini-PC.html)
 
-# Common Documents
+# RK3588 Mainboard (SBC) Documents
 - [01 HYY Rockchip RK3588 Datasheet.pdf](./RK3588_Documents/01_HYY_Rockchip_RK3588_Datasheet.pdf?raw=true)
 - [02 HYY Rockchip RK806 Datasheet.pdf](./RK3588_Documents/02_HYY_Rockchip_RK806_Datasheet.pdf?raw=true)
 - [03 HYY Rockchip RK3588 RKDevTool manual.pdf](./RK3588_Documents/03_HYY_RKDevTool_manual.pdf?raw=true)
 - [04 HYY Rockchip RK3588 SBC Specifications.pdf](./RK3588_Documents/04_HYY_RK3588_SBC_Specifications.pdf?raw=true)
 - [05 HYY Rockchip RK3588 8K Mini PC Specifications.pdf](./RK3588_Documents/05_HYY_Rockchip_RK3588_8K_Mini_PC_Specifications.pdf?raw=true)
 - [06 HYY Rockchip RK3588 8K industrial computer Specifications.pdf](./RK3588_Documents/06_HYY_RK3588_8K_industrial_computer_specs.pdf?raw=true)
-- [07 HYY Digital Signage Catalog.pdf](./RK3588_Documents/07_HYY_Digital_Signage_Catalog.pdf?raw=true)
+- [07 HYY Rockchip RK3588 Brief Datasheet.pdf](./RK3588_Documents/07_HYY_RK3588_Brief_Datasheet.pdf?raw=true)
+- [08 HYY Rockchip Edge Computing V1.1.pdf](./RK3588_Documents/08_HYY_RK3588_Edge_computing_V1.1.pdf?raw=true)
+- [09 HYY Digital Signage Catalog.pdf](./RK3588_Documents/09_HYY_Digital_Signage_Catalog.pdf?raw=true)
 # RK3588 Mainboard (SBC)
 RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer) by HYY. It can run Linux <Debian11, Ubuntu20.04>, Android12,  chromium-os and other distributions.
 - [RK3588 Mainboard (SBC) V1.0](SBC_V10.md)
