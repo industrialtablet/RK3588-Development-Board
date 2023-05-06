@@ -30,7 +30,7 @@
         <td colspan="2">RK3588 Edge Computing With POE</td>
     </tr>
     <tr>
-        <td rowspan="67">System</td>
+        <td rowspan="7">System</td>
         <td>CPU</td>
         <td>8-core 64-bit (4×Cortex-A76+4×Cortex-A55) , 8nm lithography process, frequency up to 2.4GHz</td>
     </tr>
