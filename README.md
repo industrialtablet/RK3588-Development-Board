@@ -13,7 +13,8 @@ This repository is the documentation for RK3588 products, written by RSD Team of
 - [07 HYY Digital Signage Catalog.pdf](./RK3588_Documents/07_HYY_Digital_Signage_Catalog.pdf?raw=true)
 # RK3588 Mainboard (SBC)
 RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer) by HYY. It can run Linux <Debian11, Ubuntu20.04>, Android12,  chromium-os and other distributions.
-- [RK3588 Mainboard (SBC)](SBC.md)
+- [RK3588 Mainboard (SBC) V1.0](SBC_V10.md)
+- [RK3588 Mainboard (SBC) V1.1](SBC_V11.md)
 - [RK3588 SBC Firmware Upgrade](RK3588_Update_Firmware.md)
 - [RK3588 Mainboard Ubuntu20.04 Firmware(rk3588_edge_ubuntu20.04_unity_update_lp4x_0704_r1.7z)](https://1drv.ms/u/s!AqvWy-LFD_JhijeK6ZqT1QG4Svf6?e=rDfMKj)
 # RK3588 mini-pc
