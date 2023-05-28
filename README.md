@@ -90,15 +90,18 @@ RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer)
 
 \- [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
 
+###### Android HID USB RelayController
+\- [RK3566/RK3568/RK3588 Android HID USB RelayController](https://github.com/industrialtablet/RK3588-RK3568-RK3566-Tablet-Relay-Controller)
+
 ###### How Qt5.14.2 cross-compile
 
 \- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian Linux OS](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
 
-Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
+###### Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
 
 \- [Build Videorecorder Bundle use Networkoptix Client](https://github.com/industrialtablet/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet)
 
-Build new ubuntu rootfs for HYY H-3588 Tablet
+ ###### Build new ubuntu rootfs for HYY H-3588 Tablet
 
 -[Build new ubuntu rootfs for RK3566 RK3568 RK3588 products](https://github.com/industrialtablet/Re-build-ubuntu20.04-rootfs-for-RK3566-RK3568-RK3588)
 
