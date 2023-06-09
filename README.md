@@ -1,3 +1,6 @@
+# New Products
+- 7inch HMI Interfaces and Functions
+![Allwinner A133-7inch-HMI](./RK3588_Documents/New%20Products/PCB%20Functions.jpg)
 # RK3588-Products
 This repository is the documentation for RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
 - [Order RK3588 SBC](https://we-signage.en.made-in-china.com/product/mFGTfIdHYhUb/China-8K-4K-USB-4-16GB-RAM-16-128GB-ROM-Android-12-Poe-HDMI-Rockchip-Rk3588-Industrial-Tablet-Touch-Screen-Panel-Mini-PC-Arm-PC-Embedded-PC-Sbc-Single-Board-Computer.html)
