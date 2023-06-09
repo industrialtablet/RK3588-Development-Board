@@ -1,3 +1,6 @@
+# New Products
+- [Allwinner A133 7inch HMI](https://github.com/industrialtablet/A133-7inch-HMI)
+![Allwinner A133-7inch-HMI](./RK3588_Documents/New%20Products/PCB%20Functions.jpg)
 # RK3588 mini pc
 This repository is the documentation for RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
 # RK3588 mini-pc Documents

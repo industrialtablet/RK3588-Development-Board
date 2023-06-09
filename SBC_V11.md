@@ -1,3 +1,6 @@
+# New Products
+- [Allwinner A133 7inch HMI](https://github.com/industrialtablet/A133-7inch-HMI)
+![Allwinner A133-7inch-HMI](./RK3588_Documents/New%20Products/PCB%20Functions.jpg)
 # RK3588 Mainboard (SBC) Documents
 - [01 HYY Rockchip RK3588 Datasheet.pdf](./RK3588_Documents/01_HYY_Rockchip_RK3588_Datasheet.pdf?raw=true)
 - [02 HYY Rockchip RK806 Datasheet.pdf](./RK3588_Documents/02_HYY_Rockchip_RK806_Datasheet.pdf?raw=true)
