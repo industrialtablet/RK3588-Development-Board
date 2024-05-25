@@ -1,6 +1,9 @@
 # New Products
+- [Video Server NVR Box](https://github.com/industrialtablet/Video-Server-NVR-Box-with-Networkoptix-Server)
+![Video Server NVR Box](./RK3588_Documents/New%20Products/RK3588%20NVR%20PCB%20Functions.png)
+
 - [Allwinner A133 7inch HMI](https://github.com/industrialtablet/A133-7inch-HMI)
-![Allwinner A133-7inch-HMI](./RK3588_Documents/New%20Products/PCB%20Functions.jpg)
+![Allwinner A133-7inch-HMI](./RK3588_Documents/New%20Products/A133%20PCB%20Functions.jpg)
 
 # RK3588-Products
 This repository is the documentation for RK3588 products, written by RSD Team of HYY Technology Co.,Ltd.
