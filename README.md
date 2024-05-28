@@ -1,6 +1,6 @@
 # New Products
 - [Video Server NVR Box](https://github.com/industrialtablet/Video-Server-NVR-Box-with-Networkoptix-Server)
-![Video Server NVR Box](./RK3588_Documents/New%20Products/RK3588%20NVR%20PCB%20Functions.png)
+![Video Server NVR Box](./RK3588_Documents/New%20Products/Integrated%20View.jpg)
 
 - [Allwinner A133 7inch HMI](https://github.com/industrialtablet/A133-7inch-HMI)
 ![Allwinner A133-7inch-HMI](./RK3588_Documents/New%20Products/A133%20PCB%20Functions.jpg)
