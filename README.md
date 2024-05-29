@@ -82,9 +82,11 @@ RK3588 Mainboard is a series of Rockchip RK3588 based SBC(Single Board Computer)
 - [AndroidTool_Release_v2.35](./AndroidTool/AndroidTool_Release_v2.35.zip)
 - [AndroidTool_Release_v2.54](./AndroidTool/AndroidTool_Release_v2.54.zip)
 - [RKDevTool_Release_v2.84](./AndroidTool/RKDevTool_Release_v2.84.zip)
+- [RKDevTool_Release_v3.13](./AndroidTool/RKDevTool_Release_v3.13)
 - [DriverAssitant_v5.1.1](./AndroidTool/DriverAssitant_v5.1.1.zip)
-
-
+- [DriverAssitant_v5.12](./AndroidTool/DriverAssitant_v5.12)
+- [SDDiskTool_v1.69](./AndroidTool/SDDiskTool_v1.69)
+- [SDDiskTool_v1.74](./AndroidTool/SDDiskTool_v1.74)
 
 # Get More technical Support
 
